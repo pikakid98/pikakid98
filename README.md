@@ -12,7 +12,7 @@
 [YouTube](https://pikakid98.github.io/yt/) | Active |  | 2012 |  | | Hobby
 [Voice work](https://pikakid98.github.io/support-me/hire-me) | On-Hold |  | TBA | Prices vary | | Job
 Secret Project | In-Development | Game Maker 8.2 / Game Maker Language / AutoHotkey | TBA | Freeware | Yes | Multi-App Launcher
-[Pikakid98 Launcher](https://git-pikakid98.github.io/launcher) | On-Hold | Game Maker 8.1 / Game Maker Language / Batch / Visual Basic | 2021 | Freeware | Yes | Multi-App Launcher
+[Pikakid98 Launcher + PLUpdater](https://git-pikakid98.github.io/launcher) | On-Hold | Game Maker 8.1 / Game Maker Language / Batch / Visual Basic | 2021 | Freeware | Yes | Multi-App Launcher
 Secret Project | In-Development | Game Maker 8.2 / Game Maker Language | TBA | Freeware | Yes | Game Compilation
 [The Story Of A Succubus Named Candice](https://pikakid98games.wordpress.com/thestoryofasuccubusnamedcandice/) | In-Development (Limbo) | RPG Maker VX Ace / Ruby | 2016 | Freeware | No (But it's easy to find the code) | Game
 [Pika's Greenscreen Repo](https://git-pikakid98.github.io/other/pikas-greenscreen-repo) | Active | RPG Maker VX Ace / Ruby | 2021 | Freeware | No (But it's easy to find the code) | Game
