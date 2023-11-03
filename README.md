@@ -88,9 +88,9 @@ MCrusadr | Batch | Tool | Lack of energy | A [Super Smash Bros. Crusade](https:/
 ![vb](/icons/vb.png) Visual Basic | A little
 ![rb](/icons/rb.png) Ruby | A little
 ![py](/icons/py.png) Python | A little
+![sh](/icons/sh.png) Bash (aka Linux Command Prompt) | A little
 ![cs](/icons/cs.png) C# | Basically nothing
 ![js](/icons/js.png) JavaScript | Basically nothing
 ![css](/icons/css.png) CSS | Basically nothing
-![sh](/icons/sh.png) Bash (aka Linux Command Prompt) | A little
 
 </details>
