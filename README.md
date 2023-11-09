@@ -2,7 +2,8 @@
 <details>
 <summary>📁 Click here to learn about me </summary>
 
-### Hey, It's yo girl Pikakid98. A Trans, Bi, Furry who codes, makes YouTube videos and does voice work ;)
+Hey, It's yo girl Pikakid98. A Trans, Bi, Furry who codes, makes YouTube videos and does voice work ;)
+\
  ️‍⚧️ Pronouns: She/Her
 
 
