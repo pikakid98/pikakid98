@@ -86,7 +86,7 @@ MCrusadr | Batch | Tool | Lack of energy | A [Super Smash Bros. Crusade](https:/
 ![html](/icons/html.png) HTML | Decent
 ![cmd](/icons/cmd.png) Batch (aka Windows Command Prompt) | Decent
 ![gm](/icons/gm.png) Game Maker Language | Iffy
-![vb](/icons/vb.png) Visual Basic | A little
+![vb](/icons/vb.png) VBScript | A little
 ![rb](/icons/rb.png) Ruby | A little
 ![sh](/icons/sh.png) Bash (aka Linux Command Prompt) | A little
 ![ps](/icons/ps.png) PowerShell | A little
