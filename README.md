@@ -1,5 +1,4 @@
-###
-<a href="https://pikakid98.github.io" target="_blank" rel="noopener noreferrer">My Website</a>
+### [My Website](https://pikakid98.github.io)
 <details>
 <summary>📁 Click here to learn about me </summary>
 
