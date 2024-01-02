@@ -85,7 +85,7 @@ MCrusadr | Batch | Tool | Lack of energy | A [Super Smash Bros. Crusade](https:/
 | --- | --- |
 ![ahk](/icons/ahk.png) AutoHotkey | Decent
 ![cmd](/icons/cmd.png) Batch (aka Windows Command Prompt) | Decent
-![md](/icons/md.png) Markdown | Iffy
+![md](/icons/markdown.png) Markdown | Iffy
 ![gm](/icons/gm.png) Game Maker Language | Iffy
 ![vb](/icons/vb.png) VBScript | A little
 ![rb](/icons/rb.png) Ruby | A little
