@@ -84,12 +84,13 @@ MCrusadr | Batch | Tool | Lack of energy | A [Super Smash Bros. Crusade](https:/
 | Language | Skill Level |
 | --- | --- |
 ![ahk](/icons/ahk.png) AutoHotkey | Decent
-![html](/icons/html.png) HTML | Decent
 ![cmd](/icons/cmd.png) Batch (aka Windows Command Prompt) | Decent
+![md](/icons/md.png) Markdown | Iffy
 ![gm](/icons/gm.png) Game Maker Language | Iffy
 ![vb](/icons/vb.png) VBScript | A little
 ![rb](/icons/rb.png) Ruby | A little
 ![sh](/icons/sh.png) Bash (aka Linux Command Prompt) | A little
+![html](/icons/html.png) HTML | A little
 ![ps](/icons/ps.png) PowerShell | A little
 ![py](/icons/py.png) Python | Basically nothing
 ![cs](/icons/cs.png) C# | Basically nothing
