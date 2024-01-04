@@ -10,7 +10,7 @@ Hey, It's yo girl Pikakid98. A Trans, Bi, Furry who codes, makes YouTube videos 
 # Projects
 | Name | Status | Engine/Language | Release Year | Price | FLOSS | Type
 | --- | --- |--- | --- | --- | --- | --- |
-[YouTube](https://pikakid98.github.io/yt/) | On-Hold | | 2012 - 2023 | | | Hobby
+[YouTube](https://pikakid98.github.io/yt/) | On-Hold | | 2012 - 2024 | | | Hobby
 [Adventure Guy](https://pikakid98.itch.io/adventure-guy) | In-Development | Game Maker 8.2 / Game Maker Language | 2023 | Freeware (Game Jam) | Yes | Game
 [Voice work](https://pikakid98.github.io/support-me/hire-me) | On-Hold | | TBA | Prices vary | | Job
 Secret Project | In-Development | Game Maker 8.2 / Game Maker Language / AutoHotkey | TBA | Freeware | Not Yet | Multi-App Launcher
