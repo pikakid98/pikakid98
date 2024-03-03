@@ -42,7 +42,7 @@ Secret Project | In-Development | Game Maker 8.2 / Game Maker Language / AutoHot
 [Techron](https://pikakid98games.wordpress.com/techron) | Cancelled | RPG Maker VX Ace / Ruby | 2015 - 2016 (?) | Freeware | Not yet | Game
 [Cave Of The Dead 2: Dimensional Disaster](https://pikakid98games.wordpress.com/caveofthedead2) | Cancelled | Game Maker Studio / Game Maker Language | 2018 | Freeware | Not Yet | Game
 [Cave Of The Dead Remastered](https://git-pikakid98.github.io/games/cave-of-the-dead-remastered) | Cancelled | Game Maker Studio / Game Maker Language | 2018 | Freeware | Yes (No guarantees of it working) | Game
-[PHE Adventures](https://git-pikakid98.github.io/games/phe-adventures) | Cancelled | Game Maker Studio / Game Maker Language | 2018 | Freeware | Yes (No guarantees of it working) | Game
+[PHE Adventures](https://git-pikakid98.github.io/games/phe-adventures) | Cancelled | Game Maker Studio / Game Maker Language | 2018 | Freeware | Yes | Game
 [Pikakid98 Launcher: Special Edition](https://git-pikakid98.github.io/other/pikakid98-launcher-se) | Finished | Game Maker 8.1 / Batch | 2022 | Freeware | Yes | Multi-App Launcher
 [Cat Warfare Pre-Alpha Archive](https://git-pikakid98.github.io/games/cat-warfare-pre-alpha-archive) | On-Hold (Plan to remake) | Game Maker 8.1 / Game Maker Language | 2021 | Freeware | Yes | Game Compilation
 [Cab Ov Did](https://git-pikakid98.github.io/other/pikakid98-launcher-se) | Finished | Game Maker 8.1 / Game Maker Language | 2022 | Freeware | Yes | Game
