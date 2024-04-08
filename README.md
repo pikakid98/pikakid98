@@ -105,7 +105,7 @@ Hey, It's yo girl Pikakid98. A Trans, Bi, Furry who codes, makes YouTube videos 
 [Adventure Guy](https://pikakid98-games.github.io/adventure-guy/) | Complete (Game Jam version) | Game Maker 8.2 / Game Maker Language | 2023 | Name your own price (Game Jam) | Yes | Game
 [Voice work](https://pikakid98.github.io/support-me/hire-me) | On-Hold | | TBA | Prices vary | | Job
 Secret Project | In-Development | Game Maker 8.2 / Game Maker Language / AutoHotkey | TBA | Freeware | Not Yet | Multi-App Launcher
-Secret Project | Planned | Game Maker 8.2 / Game Maker Language / AutoHotkey | TBA | Freeware | Not Yet | Multi-App Launcher
+Secret Project | Planned | Game Maker 8.2 / Game Maker Language / AutoHotkey | TBA | Freeware | Not Yet | Multi-Game Launcher
 [Pikakid98 Launcher + PLUpdater](https://git-pikakid98.github.io/launcher) | On-Hold | Game Maker 8.1 / Game Maker Language / Batch / Visual Basic | 2021 | Freeware | Yes | Multi-App Launcher
 Secret Project | In-Development | Game Maker 8.2 / Game Maker Language | TBA | Freeware | Not Yet | Game Compilation
 [The Story Of A Succubus Named Candice](https://pikakid98games.wordpress.com/thestoryofasuccubusnamedcandice/) | On Hold | RPG Maker VX Ace / Ruby | 2016 | Freeware | No (But it's easy to find the code) | Game
