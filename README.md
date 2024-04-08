@@ -1,4 +1,95 @@
 ### [My Website](https://pikakid98.github.io)
+
+<details>
+<summary>🛠️ Current projects</summary>
+
+- Currently working on a new Pikakid98 Games website `(1/21)`
+   <details>
+    
+   ➖ [Main page](https://pikakid98-games.github.io/)
+   \
+   ✔️ [Adventure Guy](https://pikakid98-games.github.io/adventure-guy)
+   \
+   ❌ PurrCatory
+   \
+   ❌ SonicboomColt Classics
+   \
+   ❌ Pikakid98 Classic Game Collection
+   \
+   ❌ Pikakid98 & SonicboomColt Classics
+   \
+   ❌ The Story Of A Succubus Named Candice
+   \
+   ❌ The Computer
+   \
+   ❌ Pikakid98 (Youtuber) Fan Game Collection
+   \
+   ❌ Cave Of The Dead
+   \
+   ❌ The Legend Of Zelda: Sword Of Destiny
+   \
+   ❌ Pikakid98 Studios Game Gallery
+   \
+   ❌ Markiplier’s Mansion
+   \
+   ❌ 8-Bit Markiplier
+   \
+   ❌ JackSepticEye: Into The System
+   \
+   ❌ Techron
+   \
+   ❌ Cave Of The Dead 2: Dimensional Disaster
+   \
+   ❌ Cave Of The Dead Remastered
+   \
+   ❌ PHE Adventures
+   \
+   ❌ Unreleased projects
+   \
+   ❌ Pikakid98 Launcher: Special Edition `This will include all of the games as they were all make FOR the launcher and not just included`
+  
+   </details>
+
+- Decompiling my old GameMaker Studio games `(5/15)`
+   <details>
+
+   ❌ 8-Bit Markiplier
+   \
+   ❌ Cave Of The Dead Remastered
+   \
+   ❌ Cave Of The Dead 2: Dimensional Disaster `Debug Build`
+   \
+   ❌ Cave Of The Dead 2: Dimensional Disaster `Release Build`
+   \
+   ❌ Minecraft 2D (GMS) `Original by SonicboomColt`
+   \
+   ❌ Ninja (GMS) `Original by SonicboomColt`
+   \
+   ✔️ PHE Adventures
+   \
+   ✔️ Pikakid98 & SonicboomColt Classics
+   \
+   ✔️ Pikakid98 (Youtuber) Fan Game Collection
+   \
+   ✔️ Pikakid98 Classic Game Collection
+   \
+   ➖ PurrCatory `Alpha Build`
+   \
+   ❌ PurrCatory `Demo Build`
+   \
+   ❌ RobotKiller (GMS) `Original by SonicboomColt`
+   \
+   ✔️ SonicboomColt Classics
+   \
+   ❌ The Computer
+
+   </details>
+
+- Working on my first DooM WAD
+
+</details>
+
+
 <details>
 <summary>📁 Click here to learn about me </summary>
 
@@ -14,6 +105,7 @@ Hey, It's yo girl Pikakid98. A Trans, Bi, Furry who codes, makes YouTube videos 
 [Adventure Guy](https://pikakid98-games.github.io/adventure-guy/) | Complete (Game Jam version) | Game Maker 8.2 / Game Maker Language | 2023 | Name your own price (Game Jam) | Yes | Game
 [Voice work](https://pikakid98.github.io/support-me/hire-me) | On-Hold | | TBA | Prices vary | | Job
 Secret Project | In-Development | Game Maker 8.2 / Game Maker Language / AutoHotkey | TBA | Freeware | Not Yet | Multi-App Launcher
+Secret Project | Planned | Game Maker 8.2 / Game Maker Language / AutoHotkey | TBA | Freeware | Not Yet | Multi-App Launcher
 [Pikakid98 Launcher + PLUpdater](https://git-pikakid98.github.io/launcher) | On-Hold | Game Maker 8.1 / Game Maker Language / Batch / Visual Basic | 2021 | Freeware | Yes | Multi-App Launcher
 Secret Project | In-Development | Game Maker 8.2 / Game Maker Language | TBA | Freeware | Not Yet | Game Compilation
 [The Story Of A Succubus Named Candice](https://pikakid98games.wordpress.com/thestoryofasuccubusnamedcandice/) | On Hold | RPG Maker VX Ace / Ruby | 2016 | Freeware | No (But it's easy to find the code) | Game
