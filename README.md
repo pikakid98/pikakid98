@@ -73,7 +73,7 @@
    \
    ✔️ Pikakid98 Classic Game Collection
    \
-   ➖ PurrCatory `Alpha Build`
+   ✔️ PurrCatory `Alpha Build`
    \
    ✔️ PurrCatory `Demo Build`
    \
