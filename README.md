@@ -50,7 +50,7 @@
   
    </details>
 
-- Decompiling my old GameMaker Studio games `(5/15)`
+- Decompiling my old GameMaker Studio games `(6/15)`
    <details>
 
    ❌ 8-Bit Markiplier
