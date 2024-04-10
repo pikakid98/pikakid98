@@ -24,7 +24,7 @@
    \
    ➖ Pikakid98 (Youtuber) Fangame Collection
    \
-   ✔️ Cave Of The Dead
+   ✔️ [Cave Of The Dead](https://pikakid98-games.github.io/cave-of-the-dead)
    \
    ❌ The Legend Of Zelda: Sword Of Destiny
    \
