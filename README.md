@@ -122,7 +122,7 @@ Secret Project | In-Development | Game Maker 8.2 / Game Maker Language / AutoHot
 | --- | --- |--- | --- | --- | --- | --- |
 [Simple M3U Maker](https://git-pikakid98.github.io/apps/simple-m3u-maker) | On-Hold (Plan to remake it) | Batch | 2021 | Freeware | Yes | Tool
 [The Legend Of Zelda: Sword Of Destiny](https://git-pikakid98.github.io/games/the-legend-of-zelda-sword-of-destiny) | Finished (Plan to remake it)  | Game Maker 8.1 / Game Maker Language | 2013 | Fangame | Yes | Game
-[Cave Of The Dead](https://git-pikakid98.github.io/games/cave-of-the-dead) | Finished | Game Maker 8.1 / Game Maker Language | 2012 | Freeware | Yes | Game
+[Cave Of The Dead](https://pikakid98-games.github.io/cave-of-the-dead) | Finished | Game Maker 8.1 / Game Maker Language | 2012 | Freeware | Yes | Game
 [PurrCatory](https://pikakid98games.wordpress.com/purrcatory) | Cancelled | Game Maker Studio / Game Maker Language | 2015 | Freeware | Not Yet | Game
 [The Computer](https://pikakid98games.wordpress.com/thecomputer) | Cancelled | Game Maker Studio / Game Maker Language | 2016 | Freeware | Not Yet | Game
 [Pikakid98 (YouTuber) Fan Game Collection](https://pikakid98games.wordpress.com/pikakid98youtuberfangamecollection) | Cancelled | Game Maker Studio / Game Maker Language | 2019 | Freeware | Not Yet | Game Compilation
