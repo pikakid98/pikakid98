@@ -75,7 +75,7 @@
    \
    ➖ PurrCatory `Alpha Build`
    \
-   ➖ PurrCatory `Demo Build`
+   ✔️ PurrCatory `Demo Build`
    \
    ❌ RobotKiller (GMS) `Original by SonicboomColt`
    \
