@@ -22,7 +22,7 @@
    \
    ❌ The Computer
    \
-   ❌ Pikakid98 (Youtuber) Fan Game Collection
+   ➖ Pikakid98 (Youtuber) Fangame Collection
    \
    ❌ Cave Of The Dead
    \
@@ -69,7 +69,7 @@
    \
    ✔️ Pikakid98 & SonicboomColt Classics
    \
-   ✔️ Pikakid98 (Youtuber) Fan Game Collection
+   ✔️ Pikakid98 (Youtuber) Fangame Collection
    \
    ✔️ Pikakid98 Classic Game Collection
    \
