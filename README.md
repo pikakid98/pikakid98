@@ -105,8 +105,9 @@ Hey, It's yo girl Pikakid98. A Trans, Bi, Furry who codes, makes YouTube videos 
 [Adventure Guy](https://pikakid98-games.github.io/adventure-guy/) | Complete (Game Jam version) | Game Maker 8.2 / Game Maker Language | 2023 | Name your own price (Game Jam) | Yes | Game
 [Voice work](https://pikakid98.github.io/support-me/hire-me) | On-Hold | | TBA | Prices vary | | Job
 [Compile-in-ator](https://github.com/Git-Pikakid98/Compile-in-ator) | Active | AutoHotkey | 2023 | Freeware | Yes | Tool
-[AnyCLIToGUI](https://github.com/Git-Pikakid98/AnyCLItoGUI) | Active | AutoHotkey | 2023 | Freeware | Yes | Tool
-[EditorHandlerForAHKv1&2](https://github.com/Git-Pikakid98/EditorHandlerForAHKv1-2) | Active | AutoHotkey | 2023 | Freeware | Yes | Tool
+[AnyCLIToGUI](https://github.com/Git-Pikakid98/AnyCLItoGUI) | Active | AutoHotkey | 2024 | Freeware | Yes | Tool
+[EditorHandlerForAHKv1&2](https://github.com/Git-Pikakid98/EditorHandlerForAHKv1-2) | Active | AutoHotkey | 2024 | Freeware | Yes | Tool
+[Sym-Biote](https://github.com/Git-Pikakid98/Sym-Biote) | Active | AutoHotkey | 2024 | Freeware | Yes | Tool
 Secret Project | In-Development | Game Maker 8.2 / Game Maker Language / AutoHotkey | TBA | Freeware | Not Yet | Multi-App Launcher
 Secret Project | Planned | Game Maker 8.2 / Game Maker Language / AutoHotkey | TBA | Freeware | Not Yet | Multi-Game Launcher
 [Pikakid98 Launcher + PLUpdater](https://git-pikakid98.github.io/launcher) | On-Hold | Game Maker 8.1 / Game Maker Language / Batch / Visual Basic | 2021 | Freeware | Yes | Multi-App Launcher
