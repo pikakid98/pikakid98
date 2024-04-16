@@ -57,17 +57,17 @@
 	<details>
 
 	#### Porting
-		- [ ] Cave Of The Dead (Classic & OG)
-		- [ ] Cab Ov Did
-		- [ ] Cave Of The Dead: Remastered
-		- [x] `NEW!` Prototype Of The Dead
-		- [ ] Cave Of The Dead 2: Dimensional Disaster
+	- [ ] Cave Of The Dead (Classic & OG)
+	- [ ] Cab Ov Did
+	- [ ] Cave Of The Dead: Remastered
+	- [x] `NEW!` Prototype Of The Dead
+	- [ ] Cave Of The Dead 2: Dimensional Disaster
 	#### QOL Fixes
-		- [ ] Cave Of The Dead (Classic & OG)
-		- [ ] Cab Ov Did
-		- [ ] Cave Of The Dead: Remastered
-		- [ ] `NEW!` Prototype Of The Dead
-		- [ ] Cave Of The Dead 2: Dimensional Disaster
+	- [ ] Cave Of The Dead (Classic & OG)
+	- [ ] Cab Ov Did
+	- [ ] Cave Of The Dead: Remastered
+	- [ ] `NEW!` Prototype Of The Dead
+	- [ ] Cave Of The Dead 2: Dimensional Disaster
 
    </details>
 
