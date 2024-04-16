@@ -10,7 +10,7 @@
 	- [x] [Adventure Guy](https://pikakid98-games.github.io/adventure-guy)
 	- [ ] PurrCatory
 	- [ ] SonicboomColt Classics
-	- [ ] ikakid98 Classic Game Collection
+	- [ ] Pikakid98 Classic Game Collection
 	- [ ] Pikakid98 & SonicboomColt Classics
 	- [ ] The Story Of A Succubus Named Candice
 	- [ ] The Computer
