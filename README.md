@@ -6,82 +6,48 @@
 - Currently working on a new Pikakid98 Games website `(1/21)`
    <details>
     
-   ➖ [Main page](https://pikakid98-games.github.io/)
-   \
-   ✔️ [Adventure Guy](https://pikakid98-games.github.io/adventure-guy)
-   \
-   ❌ PurrCatory
-   \
-   ❌ SonicboomColt Classics
-   \
-   ❌ Pikakid98 Classic Game Collection
-   \
-   ❌ Pikakid98 & SonicboomColt Classics
-   \
-   ❌ The Story Of A Succubus Named Candice
-   \
-   ❌ The Computer
-   \
-   ➖ Pikakid98 (Youtuber) Fangame Collection
-   \
-   ✔️ [Cave Of The Dead](https://pikakid98-games.github.io/cave-of-the-dead)
-   \
-   ❌ The Legend Of Zelda: Sword Of Destiny
-   \
-   ❌ Pikakid98 Studios Game Gallery
-   \
-   ❌ Markiplier’s Mansion
-   \
-   ❌ 8-Bit Markiplier
-   \
-   ❌ JackSepticEye: Into The System
-   \
-   ❌ Techron
-   \
-   ❌ Cave Of The Dead 2: Dimensional Disaster
-   \
-   ❌ Cave Of The Dead Remastered
-   \
-   ❌ PHE Adventures
-   \
-   ❌ Unreleased projects
-   \
-   ❌ Pikakid98 Launcher: Special Edition `This will include all of the games as they were all make FOR the launcher and not just included`
+	- [ ] `WIP` [Main page](https://pikakid98-games.github.io/)
+	- [x] [Adventure Guy](https://pikakid98-games.github.io/adventure-guy)
+	- [ ] PurrCatory
+	- [ ] SonicboomColt Classics
+	- [ ] ikakid98 Classic Game Collection
+	- [ ] Pikakid98 & SonicboomColt Classics
+	- [ ] The Story Of A Succubus Named Candice
+	- [ ] The Computer
+	- [ ] `WIP`Pikakid98 (Youtuber) Fangame Collection
+	- [x] [Cave Of The Dead](https://pikakid98-games.github.io/cave-of-the-dead)
+	- [ ] The Legend Of Zelda: Sword Of Destiny
+	- [ ] Pikakid98 Studios Game Gallery
+	- [ ] Markiplier’s Mansion
+	- [ ] 8-Bit Markiplier
+	- [ ] JackSepticEye: Into The System
+	- [ ] Techron
+	- [ ] Cave Of The Dead 2: Dimensional Disaster
+	- [ ] Cave Of The Dead Remastered
+	- [ ] PHE Adventures
+	- [ ] Unreleased projects
+	- [ ] Pikakid98 Launcher: Special Edition `This will include all of the games as they were all make FOR the launcher and not just included`
   
    </details>
 
 - Decompiling my old GameMaker Studio games `(7/15)`
    <details>
 
-   ❌ 8-Bit Markiplier
-   \
-   ❌ Cave Of The Dead Remastered
-   \
-   ❌ Cave Of The Dead 2: Dimensional Disaster `Debug Build`
-   \
-   ❌ Cave Of The Dead 2: Dimensional Disaster `Release Build`
-   \
-   ❌ Minecraft 2D (GMS) `Original by SonicboomColt`
-   \
-   ❌ Ninja (GMS) `Original by SonicboomColt`
-   \
-   ✔️ PHE Adventures
-   \
-   ✔️ Pikakid98 & SonicboomColt Classics
-   \
-   ✔️ Pikakid98 (Youtuber) Fangame Collection
-   \
-   ✔️ Pikakid98 Classic Game Collection
-   \
-   ✔️ PurrCatory `Alpha Build`
-   \
-   ✔️ PurrCatory `Demo Build`
-   \
-   ❌ RobotKiller (GMS) `Original by SonicboomColt`
-   \
-   ✔️ SonicboomColt Classics
-   \
-   ❌ The Computer
+	- [ ] 8-Bit Markiplier
+	- [ ] Cave Of The Dead Remastered
+	- [ ] Cave Of The Dead 2: Dimensional Disaster `Debug Build`
+	- [ ] Cave Of The Dead 2: Dimensional Disaster `Release Build`
+	- [ ] Minecraft 2D (GMS) `Original by SonicboomColt`
+	- [ ] Ninja (GMS) `Original by SonicboomColt`
+	- [x] PHE Adventures
+	- [x] Pikakid98 & SonicboomColt Classics
+	- [x] Pikakid98 (Youtuber) Fangame Collection
+	- [x] Pikakid98 Classic Game Collection
+	- [x] PurrCatory `Alpha Build`
+	- [x] PurrCatory `Demo Build`
+	- [ ] RobotKiller (GMS) `Original by SonicboomColt`
+	- [x] SonicboomColt Classics
+	- [ ] The Computer
 
    </details>
 
