@@ -91,6 +91,7 @@
    <details>
 
 	Porting
+
 	   - [ ] Cave Of The Dead (Classic & OG)
 	   - [ ] Cab Ov Did
 	   - [ ] Cave Of The Dead: Remastered
@@ -98,6 +99,7 @@
 	   - [ ] Cave Of The Dead 2: Dimensional Disaster
 
 	QOL Fixes
+
 	   - [ ] Cave Of The Dead (Classic & OG)
 	   - [ ] Cab Ov Did
 	   - [ ] Cave Of The Dead: Remastered
