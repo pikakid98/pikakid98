@@ -108,7 +108,6 @@ Hey, It's yo girl Pikakid98. A Trans, Bi, Furry who codes, makes YouTube videos 
 [AnyCLIToGUI](https://github.com/Git-Pikakid98/AnyCLItoGUI) | Active | AutoHotkey | 2024 | Freeware | Yes | Tool
 [EditorHandlerForAHKv1&2](https://github.com/Git-Pikakid98/EditorHandlerForAHKv1-2) | Active | AutoHotkey | 2024 | Freeware | Yes | Tool
 [Sym-Biote](https://github.com/Git-Pikakid98/Sym-Biote) | Active | AutoHotkey | 2024 | Freeware | Yes | Tool
-[EditorHandlerForAHKv1&2](https://github.com/Git-Pikakid98/EditorHandlerForAHKv1-2) | Active | AutoHotkey | 2024 | Freeware | Yes | Tool
 [np2nyaa](https://github.com/Git-Pikakid98/np2nyaa) | Active | AutoHotkey | 2024 | Freeware | Yes | Tool
 Secret Project | In-Development | Game Maker 8.2 / Game Maker Language / AutoHotkey | TBA | Freeware | Not Yet | Multi-App Launcher
 Secret Project | Planned | Game Maker 8.2 / Game Maker Language / AutoHotkey | TBA | Freeware | Not Yet | Multi-Game Launcher
