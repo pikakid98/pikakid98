@@ -83,7 +83,7 @@ Hey, It's yo girl Pikakid98. A Trans, Bi, Furry who codes, makes YouTube videos 
 
 
 # Projects
-| Name | Status | Engine/Language | Release Year | Price | FLOSS | Type
+| Name | Status | Engine/Language | Creation Year | Price | FLOSS | Type
 | --- | --- |--- | --- | --- | --- | --- |
 [YouTube](https://pikakid98.github.io/yt/) | On-Hold | | 2012 - 2024 | | | Hobby
 [Adventure Guy](https://pikakid98-games.github.io/adventure-guy/) | Complete (Game Jam version) | Game Maker 8.2 / Game Maker Language | 2023 | Name your own price (Game Jam) | Yes | Game
@@ -110,7 +110,7 @@ Secret Project | In-Development | Game Maker 8.2 / Game Maker Language / AutoHot
 <details>
 <summary>📁 Other Projects</summary>
 
-| Name | Status | Engine/Language | Release Year | Price | FLOSS | Type
+| Name | Status | Engine/Language | Creation Year | Price | FLOSS | Type
 | --- | --- |--- | --- | --- | --- | --- |
 [PLUpdater](https://github.com/Git-Pikakid98/pikakid98-launcher-updater) | Cancelled (Will be replaced in the future) | Batch / Visual Basic | 2021 | Freeware | Yes | Multi-App Launcher
 [Simple M3U Maker](https://github.com/Git-Pikakid98/simple-m3u-maker) | On-Hold (Plan to remake it) | Batch | 2021 | Freeware | Yes | Tool
@@ -136,7 +136,7 @@ Secret Project | In-Development | Game Maker 8.2 / Game Maker Language / AutoHot
 <details>
 <summary>📁 Replaced projects</summary>
   
-| Name | Status | Engine/Language | Release Year | Price | FLOSS | Type
+| Name | Status | Engine/Language | Creation Year | Price | FLOSS | Type
 | --- | --- |--- | --- | --- | --- | --- |
 [Pikakid98 Classic Game Collection](https://pikakid98games.wordpress.com/pikakid98andsonicboomcoltclassics) | [Replaced](https://pikakid98games.wordpress.com/pikakid98andsonicboomcoltclassics) | Game Maker Studio / Game Maker Language | 2016 | Freeware | Not Yet | Game Compilation
 [SonicboomColt Classics](https://pikakid98games.wordpress.com/pikakid98andsonicboomcoltclassics) | [Replaced](https://pikakid98games.wordpress.com/pikakid98andsonicboomcoltclassics) | Game Maker Studio / Game Maker Language | 2016 | Freeware | Not Yet | Game Compilation
