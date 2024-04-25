@@ -3,7 +3,7 @@
 <details>
 <summary>🛠️ Current projects</summary>
 
-- Currently working on a new Pikakid98 Games website `(1/21)`
+- Currently working on a new Pikakid98 Games website `(1/20)`
    <details>
     
 	- [ ] `WIP` [Main page](https://pikakid98-games.github.io/)
@@ -25,7 +25,6 @@
 	- [ ] Cave Of The Dead 2: Dimensional Disaster
 	- [ ] Cave Of The Dead Remastered
 	- [ ] PHE Adventures
-	- [ ] Unreleased projects
 	- [ ] Pikakid98 Launcher: Special Edition `This will include all of the games as they were all make FOR the launcher and not just included`
   
    </details>
@@ -181,3 +180,5 @@ MCrusadr | Batch | Tool | Lack of energy | A [Super Smash Bros. Crusade](https:/
 ![css](/icons/css.png) CSS | Basically nothing
 
 </details>
+
+[View my license](https://github.com/pikakid98/pikakid98?tab=License-1-ov-file)
