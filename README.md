@@ -98,3 +98,5 @@ MCrusadr | Batch | Tool | Lack of energy | A [Super Smash Bros. Crusade](https:/
 ![css](/icons/css.png) CSS | Basically nothing
 
 </details>
+
+[View my license](https://github.com/pikakid98/pikakid98?tab=License-1-ov-file)
