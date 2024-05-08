@@ -1,78 +1,4 @@
 ### [My Website](https://pikakid98.github.io)
-
-<details>
-<summary>🛠️ Current projects</summary>
-
-- Currently working on a new Pikakid98 Games website `(1/20)`
-   <details>
-    
-	- [ ] `WIP` [Main page](https://pikakid98-games.github.io/)
-	- [x] [Adventure Guy](https://pikakid98-games.github.io/adventure-guy)
-	- [ ] PurrCatory
-	- [ ] SonicboomColt Classics
-	- [ ] Pikakid98 Classic Game Collection
-	- [ ] Pikakid98 & SonicboomColt Classics
-	- [ ] The Story Of A Succubus Named Candice
-	- [ ] The Computer
-	- [ ] `WIP`Pikakid98 (Youtuber) Fangame Collection
-	- [x] [Cave Of The Dead](https://pikakid98-games.github.io/cave-of-the-dead)
-	- [ ] The Legend Of Zelda: Sword Of Destiny
-	- [ ] Pikakid98 Studios Game Gallery
-	- [ ] Markiplier’s Mansion
-	- [ ] 8-Bit Markiplier
-	- [ ] JackSepticEye: Into The System
-	- [ ] Techron
-	- [ ] Cave Of The Dead 2: Dimensional Disaster
-	- [ ] Cave Of The Dead Remastered
-	- [ ] PHE Adventures
-	- [ ] Pikakid98 Launcher: Special Edition `This will include all of the games as they were all make FOR the launcher and not just included`
-  
-   </details>
-
-- Decompiling my old GameMaker Studio games `(7/15)`
-   <details>
-
-	- [ ] 8-Bit Markiplier
-	- [ ] Cave Of The Dead Remastered
-	- [ ] Cave Of The Dead 2: Dimensional Disaster `Debug Build`
-	- [ ] Cave Of The Dead 2: Dimensional Disaster `Release Build`
-	- [ ] Minecraft 2D (GMS) `Original by SonicboomColt`
-	- [ ] Ninja (GMS) `Original by SonicboomColt`
-	- [x] PHE Adventures
-	- [x] Pikakid98 & SonicboomColt Classics
-	- [x] Pikakid98 (Youtuber) Fangame Collection
-	- [x] Pikakid98 Classic Game Collection
-	- [x] PurrCatory `Alpha Build`
-	- [x] PurrCatory `Demo Build`
-	- [ ] RobotKiller (GMS) `Original by SonicboomColt`
-	- [x] SonicboomColt Classics
-	- [ ] The Computer
-
-   </details>
-
-- Working on my first DooM WAD
-
-- Working on Museum Of The Dead (A Cave Of The Dead Port/Remaster/Compilation) `(1/10)`
-	<details>
-
-	#### Porting
-	- [ ] Cave Of The Dead (Classic & OG)
-	- [ ] Cab Ov Did
-	- [ ] Cave Of The Dead: Remastered
-	- [x] `NEW!` Prototype Of The Dead
-	- [ ] Cave Of The Dead 2: Dimensional Disaster
-	#### QOL Fixes
-	- [ ] Cave Of The Dead (Classic & OG)
-	- [ ] Cab Ov Did
-	- [ ] Cave Of The Dead: Remastered
-	- [ ] `NEW!` Prototype Of The Dead
-	- [ ] Cave Of The Dead 2: Dimensional Disaster
-
-   </details>
-
-</details>
-
-
 <details>
 <summary>📁 Click here to learn about me </summary>
 
@@ -82,63 +8,55 @@ Hey, It's yo girl Pikakid98. A Trans, Bi, Furry who codes, makes YouTube videos 
 
 
 # Projects
-| Name | Status | Engine/Language | Creation Year | Price | FLOSS | Type
+| Name | Status | Engine/Language | Release Year | Price | FLOSS | Type
 | --- | --- |--- | --- | --- | --- | --- |
 [YouTube](https://pikakid98.github.io/yt/) | On-Hold | | 2012 - 2024 | | | Hobby
 [Adventure Guy](https://pikakid98-games.github.io/adventure-guy/) | Complete (Game Jam version) | Game Maker 8.2 / Game Maker Language | 2023 | Name your own price (Game Jam) | Yes | Game
 [Voice work](https://pikakid98.github.io/support-me/hire-me) | On-Hold | | TBA | Prices vary | | Job
-[Compile-in-ator](https://github.com/Git-Pikakid98/Compile-in-ator) | Active | AutoHotkey | 2023 | Freeware | Yes | Tool
-[AnyCLIToGUI](https://github.com/Git-Pikakid98/AnyCLItoGUI) | Active | AutoHotkey | 2024 | Freeware | Yes | Tool
-[EditorHandlerForAHKv1&2](https://github.com/Git-Pikakid98/EditorHandlerForAHKv1-2) | Active | AutoHotkey | 2024 | Freeware | Yes | Tool
-[Sym-Biote](https://github.com/Git-Pikakid98/Sym-Biote) | Active | AutoHotkey | 2024 | Freeware | Yes | Tool
-[np2nyaa](https://github.com/Git-Pikakid98/np2nyaa) | Active | AutoHotkey | 2024 | Freeware | Yes | Tool
-[NoAdmin](https://github.com/Git-Pikakid98/NoAdmin) | Active | AutoHotkey | 2023 | Freeware | Yes | Tool
 Secret Project | In-Development | Game Maker 8.2 / Game Maker Language / AutoHotkey | TBA | Freeware | Not Yet | Multi-App Launcher
-Secret Project | Planned | Game Maker 8.2 / Game Maker Language / AutoHotkey | TBA | Freeware | Not Yet | Multi-Game Launcher
-[Pikakid98 Launcher](https://github.com/Git-Pikakid98/pikakid98-launcher) | On-Hold | Game Maker 8.1 / Game Maker Language / Batch / Visual Basic | 2021 | Freeware | Yes | Multi-App Launcher
+[Pikakid98 Launcher + PLUpdater](https://github.com/pikakid98-launcher) | On-Hold | Game Maker 8.1 / Game Maker Language / Batch / Visual Basic | 2021 | Freeware | Yes | Multi-App Launcher
 Secret Project | In-Development | Game Maker 8.2 / Game Maker Language | TBA | Freeware | Not Yet | Game Compilation
-[The Story Of A Succubus Named Candice](https://pikakid98games.wordpress.com/thestoryofasuccubusnamedcandice/) | On Hold | RPG Maker VX Ace / Ruby | 2016 | Freeware | No (But it's easy to find the code) | Game
-[Pika's Greenscreen Repo](https://github.com/Git-Pikakid98/pikas-greenscreen-repo) | Abandoned (May come back) | | 2022 | Freeware ([CC](https://creativecommons.org/)) | N/A | Video files
-[DeclutterTube](https://github.com/Git-Pikakid98/decluttertube) | Active |  | 2023 | Freeware | Yes | uBlock Origin filters
+[The Story Of A Succubus Named Candice](https://pikakid98games.wordpress.com/the-story-of-a-succubus-named-candice/) | On Hold | RPG Maker VX Ace / Ruby | 2016 | Freeware | No (But it's easy to find the code) | Game
+[Pika's Greenscreen Repo](https://github.com/pikakid98/pikas-greenscreen-repo) | Abandoned (May come back) | | 2022 | Freeware ([CC](https://creativecommons.org/)) | N/A | Video files
+[DeclutterTube](https://github.com/pikakid98/decluttertube) | Active |  | 2023 | Freeware | Yes | uBlock Origin filters
 Collection Of Collections | On-Hold | Game Maker 8.2 / Game Maker Language | TBA | Freeware | Not Yet | Multi-Launcher Launcher
 Secret Project | In-Development | Game Maker 8.2 / Game Maker Language / AutoHotkey / Batch | TBA | Freeware | Not Yet | Tool
-[The Legend Of Zelda: Sword Of Destiny](https://pikakid98games.wordpress.com/thelegendofzeldaswordofdestiny) | Finished (Plan to remake it)  | Game Maker 8.1 / Game Maker Language | 2013 | Fangame | Yes | Game
-[Cave Of The Dead](https://pikakid98-games.github.io/cave-of-the-dead) | Finished | Game Maker 8.1 / Game Maker Language | 2012 | Freeware | Yes | Game
 
 
 <details>
 <summary>📁 Other Projects</summary>
 
-| Name | Status | Engine/Language | Creation Year | Price | FLOSS | Type
+| Name | Status | Engine/Language | Release Year | Price | FLOSS | Type
 | --- | --- |--- | --- | --- | --- | --- |
-[PLUpdater](https://github.com/Git-Pikakid98/pikakid98-launcher-updater) | Cancelled (Will be replaced in the future) | Batch / Visual Basic | 2021 | Freeware | Yes | Multi-App Launcher
-[Simple M3U Maker](https://github.com/Git-Pikakid98/simple-m3u-maker) | On-Hold (Plan to remake it) | Batch | 2021 | Freeware | Yes | Tool
+[Simple M3U Maker](https://github.com/pikakid98/simple-m3u-maker) | On-Hold (Plan to remake it) | Batch | 2021 | Freeware | Yes | Tool
+[The Legend Of Zelda: Sword Of Destiny](https://pikakid98-games.github.io/the-legend-of-zelda-sword-of-destiny) | Finished (Plan to remake it)  | Game Maker 8.1 / Game Maker Language | 2013 | Fangame | Yes | Game
+[Cave Of The Dead](https://pikakid98-games.github.io/cave-of-the-dead) | Finished | Game Maker 8.1 / Game Maker Language | 2012 | Freeware | Yes | Game
 [PurrCatory](https://pikakid98games.wordpress.com/purrcatory) | Cancelled | Game Maker Studio / Game Maker Language | 2015 | Freeware | Not Yet | Game
 [The Computer](https://pikakid98games.wordpress.com/thecomputer) | Cancelled | Game Maker Studio / Game Maker Language | 2016 | Freeware | Not Yet | Game
-[Pikakid98 (YouTuber) Fan Game Collection](https://pikakid98games.wordpress.com/pikakid98youtuberfangamecollection) | Cancelled | Game Maker Studio / Game Maker Language | 2019 | Freeware | Not Yet | Game Compilation
-[Pikakid98 & SonicboomColt Classics](https://pikakid98games.wordpress.com/pikakid98andsonicboomcoltclassics) | Cancelled | Game Maker Studio / Game Maker Language | 2019 | Freeware | Not Yet | Game Compilation
-[Pikakid98 Studios Game Gallery](https://pikakid98games.wordpress.com/pikakid98studiosgamegallery) | Cancelled | Game Maker 8.1 / Game Maker Language | 2015 - 2016 (?) | Freeware | Not yet | Game
-[Markiplier's Mansion](https://github.com/Git-Pikakid98/markipliers-mansion-demo) | Cancelled | RPG Maker VX Ace / Ruby | 2015 | Fangame | Yes | Game
-[8-Bit Markiplier](https://pikakid98games.wordpress.com/8-bitmarkiplier) | Cancelled | Game Maker Studio / Game Maker Language | 2015 | Fangame | No (Lost the src) | Game
-[JackSepticEye: Into The System](https://pikakid98games.wordpress.com/jacksepticeyeintothesystem) | Cancelled | RPG Maker VX Ace / Ruby | 2015 - 2016 (?) | Fangame | Not yet | Game
-[Techron](https://pikakid98games.wordpress.com/techron) | Cancelled | RPG Maker VX Ace / Ruby | 2015 - 2016 (?) | Freeware | Not yet | Game
-[Cave Of The Dead 2: Dimensional Disaster](https://pikakid98games.wordpress.com/caveofthedead2) | Cancelled | Game Maker Studio / Game Maker Language | 2018 | Freeware | Not Yet | Game
-[Cave Of The Dead Remastered](https://pikakid98games.wordpress.com/caveofthedeadremastered) | Cancelled | Game Maker Studio / Game Maker Language | 2018 | Freeware | Yes (No guarantees of it working) | Game
-[PHE Adventures](https://pikakid98games.wordpress.com/pheadventures) | Cancelled | Game Maker Studio / Game Maker Language | 2018 | Freeware | Yes | Game
-[Pikakid98 Launcher: Special Edition](https://github.com/Git-Pikakid98/pikakid98-launcher-se) | Finished | Game Maker 8.1 / Batch | 2022 | Freeware | Yes | Multi-App Launcher
-[Cat Warfare Pre-Alpha Archive](https://github.com/Git-Pikakid98/cat-warfare-pre-alpha-archive) | On-Hold (Plan to remake) | Game Maker 8.1 / Game Maker Language | 2021 | Freeware | Yes | Game Compilation
-[Cab Ov Did](https://github.com/Git-Pikakid98/pikakid98-launcher-se) | Finished | Game Maker 8.1 / Game Maker Language | 2022 | Freeware | Yes | Game
-[Cet Werfur](https://github.com/Git-Pikakid98/cet-werfur) | Finished | Game Maker 8.1 / Game Maker Language | 2022 | Freeware | Yes | Game
-[Merk Minshun](https://github.com/Git-Pikakid98/merk-minshun) | Finished | RPG Maker VX Ace / Ruby | 2022 | Freeware | Yes | Game
-[Sempbul Mu3r Mekur](https://github.com/Git-Pikakid98/sempbul-m3ur-mekur) | Finished | Batch | 2022 | Freeware | Yes | Tool (Joke)
+[Pikakid98 (YouTuber) Fan Game Collection](https://pikakid98-games.github.io/pikakid98-youtuber-fangame-collection) | Cancelled | Game Maker Studio / Game Maker Language | 2019 | Freeware | Not Yet | Game Compilation
+[Pikakid98 & SonicboomColt Classics](https://pikakid98-games.github.io/pikakid98-and-sonicboomcolt-classics) | Cancelled | Game Maker Studio / Game Maker Language | 2019 | Freeware | Not Yet | Game Compilation
+[Pikakid98 Studios Game Gallery](https://pikakid98-games.github.io/pikakid98-studios-game-gallery) | Cancelled | Game Maker 8.1 / Game Maker Language | 2015 - 2016 (?) | Freeware | Not yet | Game
+[Markiplier's Mansion](https://pikakid98-games.github.io/markipliers-mansion) | Cancelled | RPG Maker VX Ace / Ruby | 2015 | Fangame | Yes | Game
+[8-Bit Markiplier](https://pikakid98-games.github.io/8-bit-markiplier) | Cancelled | Game Maker Studio / Game Maker Language | 2015 | Fangame | No (Lost the src) | Game
+[JackSepticEye: Into The System](https://pikakid98-games.github.io/jacksepticeye-into-the-system) | Cancelled | RPG Maker VX Ace / Ruby | 2015 - 2016 (?) | Fangame | Not yet | Game
+[Techron](https://pikakid98-games.github.io/techron) | Cancelled | RPG Maker VX Ace / Ruby | 2015 - 2016 (?) | Freeware | Not yet | Game
+[Cave Of The Dead 2: Dimensional Disaster](https://pikakid98-games.github.io/cave-of-the-dead-2) | Cancelled | Game Maker Studio / Game Maker Language | 2018 | Freeware | Not Yet | Game
+[Cave Of The Dead Remastered](https://pikakid98-games.github.io/cave-of-the-dead-remastered) | Cancelled | Game Maker Studio / Game Maker Language | 2018 | Freeware | Yes (No guarantees of it working) | Game
+[PHE Adventures](https://pikakid98-games.github.io/phe-adventures) | Cancelled | Game Maker Studio / Game Maker Language | 2018 | Freeware | Yes | Game
+[Pikakid98 Launcher: Special Edition](https://github.com/pikakid98/pikakid98-launcher-se) | Finished | Game Maker 8.1 / Batch | 2022 | Freeware | Yes | Multi-App Launcher
+[Cat Warfare Pre-Alpha Archive](https://pikakid98-games.github.io/cat-warfare-pre-alpha-archive) | On-Hold (Plan to remake) | Game Maker 8.1 / Game Maker Language | 2021 | Freeware | Yes | Game Compilation
+[Cab Ov Did](https://github.com/pikakid98/pikakid98-launcher-se) | Finished | Game Maker 8.1 / Game Maker Language | 2022 | Freeware | Yes | Game
+[Cet Werfur](https://github.com/pikakid98/pikakid98-launcher-se) | Finished | Game Maker 8.1 / Game Maker Language | 2022 | Freeware | Yes | Game
+[Merk Minshun](https://github.com/pikakid98-games/pikakid98-launcher-se) | Finished | RPG Maker VX Ace / Ruby | 2022 | Freeware | Yes | Game
+[Sempbul Mu3r Mekur](https://github.com/pikakid98-games/pikakid98-launcher-se) | Finished | Batch | 2022 | Freeware | Yes | Tool (Joke)
 
 <details>
 <summary>📁 Replaced projects</summary>
   
-| Name | Status | Engine/Language | Creation Year | Price | FLOSS | Type
+| Name | Status | Engine/Language | Release Year | Price | FLOSS | Type
 | --- | --- |--- | --- | --- | --- | --- |
-[Pikakid98 Classic Game Collection](https://pikakid98games.wordpress.com/pikakid98andsonicboomcoltclassics) | [Replaced](https://pikakid98games.wordpress.com/pikakid98andsonicboomcoltclassics) | Game Maker Studio / Game Maker Language | 2016 | Freeware | Not Yet | Game Compilation
-[SonicboomColt Classics](https://pikakid98games.wordpress.com/pikakid98andsonicboomcoltclassics) | [Replaced](https://pikakid98games.wordpress.com/pikakid98andsonicboomcoltclassics) | Game Maker Studio / Game Maker Language | 2016 | Freeware | Not Yet | Game Compilation
+[Pikakid98 Classic Game Collection](https://pikakid98-games.github.io/pikakid98-classic-game-collection) | [Replaced](https://pikakid98-games.github.io/pikakid98-and-sonicboomcolt-classics) | Game Maker Studio / Game Maker Language | 2016 | Freeware | Not Yet | Game Compilation
+[SonicboomColt Classics](https://pikakid98-games.github.io/sonicboomcolt-classics) | [Replaced](https://pikakid98-games.github.io/pikakid98-and-sonicboomcolt-classics) | Game Maker Studio / Game Maker Language | 2016 | Freeware | Not Yet | Game Compilation
 
 </details>
 
@@ -180,5 +98,3 @@ MCrusadr | Batch | Tool | Lack of energy | A [Super Smash Bros. Crusade](https:/
 ![css](/icons/css.png) CSS | Basically nothing
 
 </details>
-
-[View my license](https://github.com/pikakid98/pikakid98?tab=License-1-ov-file)
