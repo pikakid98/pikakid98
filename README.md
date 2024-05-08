@@ -100,3 +100,4 @@ MCrusadr | Batch | Tool | Lack of energy | A [Super Smash Bros. Crusade](https:/
 </details>
 
 [View my license](https://github.com/pikakid98/pikakid98?tab=License-1-ov-file)
+[Bug Tracker](https://github.com/pikakid98/bug-tracker)
