@@ -16,7 +16,7 @@ Hey, It's yo girl Pikakid98. A Trans, Bi, Furry who codes, makes YouTube videos 
 Secret Project | In-Development | Game Maker 8.2 / Game Maker Language / AutoHotkey | TBA | Freeware | Not Yet | Multi-App Launcher
 [Pikakid98 Launcher + PLUpdater](https://github.com/pikakid98/pikakid98-launcher) | On-Hold | Game Maker 8.1 / Game Maker Language / Batch / Visual Basic | 2021 | Freeware | Yes | Multi-App Launcher
 Secret Project | In-Development | Game Maker 8.2 / Game Maker Language | TBA | Freeware | Not Yet | Game Compilation
-[The Story Of A Succubus Named Candice](https://pikakid98games.wordpress.com/the-story-of-a-succubus-named-candice/) | On Hold | RPG Maker VX Ace / Ruby | 2016 | Freeware | No (But it's easy to find the code) | Game
+[The Story Of A Succubus Named Candice](https://pikakid98-games.github.io/the-story-of-a-succubus-named-candice/) | On Hold | RPG Maker VX Ace / Ruby | 2016 | Freeware | No (But it's easy to find the code) | Game
 [Pika's Greenscreen Repo](https://github.com/pikakid98/pikas-greenscreen-repo) | Abandoned (May come back) | | 2022 | Freeware ([CC](https://creativecommons.org/)) | N/A | Video files
 [DeclutterTube](https://github.com/pikakid98/decluttertube) | Active |  | 2023 | Freeware | Yes | uBlock Origin filters
 Collection Of Collections | On-Hold | Game Maker 8.2 / Game Maker Language | TBA | Freeware | Not Yet | Multi-Launcher Launcher
@@ -31,8 +31,8 @@ Secret Project | In-Development | Game Maker 8.2 / Game Maker Language / AutoHot
 [Simple M3U Maker](https://github.com/pikakid98/simple-m3u-maker) | On-Hold (Plan to remake it) | Batch | 2021 | Freeware | Yes | Tool
 [The Legend Of Zelda: Sword Of Destiny](https://pikakid98-games.github.io/the-legend-of-zelda-sword-of-destiny) | Finished (Plan to remake it)  | Game Maker 8.1 / Game Maker Language | 2013 | Fangame | Yes | Game
 [Cave Of The Dead](https://pikakid98-games.github.io/cave-of-the-dead) | Finished | Game Maker 8.1 / Game Maker Language | 2012 | Freeware | Yes | Game
-[PurrCatory](https://pikakid98games.wordpress.com/purrcatory) | Cancelled | Game Maker Studio / Game Maker Language | 2015 | Freeware | Not Yet | Game
-[The Computer](https://pikakid98games.wordpress.com/thecomputer) | Cancelled | Game Maker Studio / Game Maker Language | 2016 | Freeware | Not Yet | Game
+[PurrCatory](https://pikakid98-games.github.io/purrcatory) | Cancelled | Game Maker Studio / Game Maker Language | 2015 | Freeware | Not Yet | Game
+[The Computer](https://pikakid98-games.github.io/the-computer) | Cancelled | Game Maker Studio / Game Maker Language | 2016 | Freeware | Not Yet | Game
 [Pikakid98 (YouTuber) Fan Game Collection](https://pikakid98-games.github.io/pikakid98-youtuber-fangame-collection) | Cancelled | Game Maker Studio / Game Maker Language | 2019 | Freeware | Not Yet | Game Compilation
 [Pikakid98 & SonicboomColt Classics](https://pikakid98-games.github.io/pikakid98-and-sonicboomcolt-classics) | Cancelled | Game Maker Studio / Game Maker Language | 2019 | Freeware | Not Yet | Game Compilation
 [Pikakid98 Studios Game Gallery](https://pikakid98-games.github.io/pikakid98-studios-game-gallery) | Cancelled | Game Maker 8.1 / Game Maker Language | 2015 - 2016 (?) | Freeware | Not yet | Game
