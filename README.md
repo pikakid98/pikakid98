@@ -3,7 +3,7 @@
 <details>
 <summary>🛠️ Current projects</summary>
 
-- Currently working on a new Pikakid98 Games website `(1/21)`
+- Currently working on a new Pikakid98 Games website `(2/21)`
    <details>
     
 	- [ ] `WIP` [Main page](https://pikakid98-games.github.io/)
