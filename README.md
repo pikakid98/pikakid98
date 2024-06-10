@@ -3,7 +3,21 @@
 <details>
 <summary>🛠️ Current projects</summary>
 
-- Currently working on a new Pikakid98 Games website `(2/21)`
+- Porting all of my GameMaker 8.0 and 8.1 games/apps over to GameMaker 8.2 `(0/6)`
+   <details>
+    
+	- [ ] The Legend Of Zelda: Sword Of Destiny
+	- [ ] Cave Of The Dead
+	- [ ] Pikakid98 Launcher: Special Edition
+			- [ ] Cet Werfur
+			- [ ] Cav Ov Did
+	- [ ] Pikakid98 Studios Game Gallery
+	- [ ] Pikakid98 Launcher
+	- [ ] Cat Warfare Pre-Alpha Launcher (Going to rework it with the Skin Creator to make Cat Warfare Prototype Archive Launcher)
+  
+   </details>
+
+- Making a new Pikakid98 Games website `(2/21)`
    <details>
     
 	- [ ] `WIP` [Main page](https://pikakid98-games.github.io/)
