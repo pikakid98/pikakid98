@@ -104,9 +104,9 @@ Hey, It's yo girl Pikakid98. A Trans, Bi, Furry who codes, makes YouTube videos 
 ![cmd](/icons/cmd.png) Batch (aka Windows Command Prompt) | Decent
 ![md](/icons/markdown.png) Markdown | Iffy
 ![gm](/icons/gm.png) Game Maker Language | Iffy
+![sh](/icons/sh.png) Bash (aka Linux Command Prompt) | Iffy
 ![vb](/icons/vb.png) VBScript | A little
 ![rb](/icons/rb.png) Ruby | A little
-![sh](/icons/sh.png) Bash (aka Linux Command Prompt) | A little
 ![html](/icons/html.png) HTML | A little
 ![ps](/icons/ps.png) PowerShell | A little
 ![py](/icons/py.png) Python | Basically nothing
