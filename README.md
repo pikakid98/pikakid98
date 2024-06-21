@@ -17,7 +17,7 @@
   
    </details>
 
-- Making a new Pikakid98 Games website `(2/21)`
+- Making a new Pikakid98 Games website `(3/21)`
    <details>
     
 	- [ ] `WIP` [Main page](https://pikakid98-games.github.io/)
@@ -28,7 +28,7 @@
 	- [ ] Pikakid98 & SonicboomColt Classics
 	- [ ] The Story Of A Succubus Named Candice
 	- [ ] The Computer
-	- [ ] `WIP`Pikakid98 (Youtuber) Fangame Collection
+	- [x] [Pikakid98 (Youtuber) Fangame Collection](https://pikakid98-games.github.io/pikakid98-youtuber-fangame-collection)
 	- [x] [Cave Of The Dead](https://pikakid98-games.github.io/cave-of-the-dead)
 	- [ ] The Legend Of Zelda: Sword Of Destiny
 	- [ ] Pikakid98 Studios Game Gallery
