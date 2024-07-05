@@ -17,10 +17,10 @@
   
    </details>
 
-- Making a new Pikakid98 Games website `(4/21)`
+- Making a new Pikakid98 Games website `(7/21)`
    <details>
     
-	- [ ] `WIP` [Main page](https://pikakid98-games.github.io/)
+	- [ ] [Main page](https://pikakid98-games.github.io/)
 	- [x] [Adventure Guy](https://pikakid98-games.github.io/adventure-guy)
 	- [ ] PurrCatory
 	- [ ] SonicboomColt Classics
@@ -40,7 +40,7 @@
 	- [ ] Cave Of The Dead Remastered
 	- [ ] PHE Adventures
 	- [x] [Unreleased projects](https://pikakid98-games.github.io/unreleased-projects)
-	- [ ] Pikakid98 Launcher: Special Edition `This will include all of the games as they were all make FOR the launcher and not just included`
+	- [x] [Pikakid98 Launcher: Special Edition](https://pikakid98-games.github.io/pikakid98-launcher-se/)
   
    </details>
 
