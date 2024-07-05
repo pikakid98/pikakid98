@@ -17,7 +17,7 @@
   
    </details>
 
-- Making a new Pikakid98 Games website `(3/21)`
+- Making a new Pikakid98 Games website `(4/21)`
    <details>
     
 	- [ ] `WIP` [Main page](https://pikakid98-games.github.io/)
@@ -26,7 +26,7 @@
 	- [ ] SonicboomColt Classics
 	- [ ] Pikakid98 Classic Game Collection
 	- [ ] Pikakid98 & SonicboomColt Classics
-	- [ ] The Story Of A Succubus Named Candice
+	- [x] [The Story Of A Succubus Named Candice](https://pikakid98-games.github.io/the-story-of-a-succubus-named-candice)
 	- [ ] The Computer
 	- [x] [Pikakid98 (Youtuber) Fangame Collection](https://pikakid98-games.github.io/pikakid98-youtuber-fangame-collection)
 	- [x] [Cave Of The Dead](https://pikakid98-games.github.io/cave-of-the-dead)
