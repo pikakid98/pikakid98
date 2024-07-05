@@ -39,7 +39,7 @@
 	- [ ] Cave Of The Dead 2: Dimensional Disaster
 	- [ ] Cave Of The Dead Remastered
 	- [ ] PHE Adventures
-	- [ ] Unreleased projects
+	- [x] [Unreleased projects](https://pikakid98-games.github.io/unreleased-projects)
 	- [ ] Pikakid98 Launcher: Special Edition `This will include all of the games as they were all make FOR the launcher and not just included`
   
    </details>
