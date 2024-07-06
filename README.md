@@ -17,12 +17,12 @@
   
    </details>
 
-- Making a new Pikakid98 Games website `(7/21)`
+- Making a new Pikakid98 Games website `(8/21)`
    <details>
     
 	- [ ] [Main page](https://pikakid98-games.github.io/)
 	- [x] [Adventure Guy](https://pikakid98-games.github.io/adventure-guy)
-	- [ ] PurrCatory
+	- [x] [PurrCatory](https://pikakid98-games.github.io/purrcatory)
 	- [ ] SonicboomColt Classics
 	- [ ] Pikakid98 Classic Game Collection
 	- [ ] Pikakid98 & SonicboomColt Classics
