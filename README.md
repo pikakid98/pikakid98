@@ -20,7 +20,7 @@
 - Making a new Pikakid98 Games website `(8/21)`
    <details>
     
-	- [ ] [Main page](https://pikakid98-games.github.io/)
+	- [ ] `WIP` [Main page](https://pikakid98-games.github.io/)
 	- [x] [Adventure Guy](https://pikakid98-games.github.io/adventure-guy)
 	- [x] [PurrCatory](https://pikakid98-games.github.io/purrcatory)
 	- [ ] SonicboomColt Classics
@@ -32,7 +32,7 @@
 	- [x] [Cave Of The Dead](https://pikakid98-games.github.io/cave-of-the-dead)
 	- [ ] The Legend Of Zelda: Sword Of Destiny
 	- [ ] Pikakid98 Studios Game Gallery
-	- [ ] Markiplier’s Mansion
+	- [x] [Markiplier’s Mansion](https://pikakid98-games.github.io/markiplier's mansion)
 	- [ ] 8-Bit Markiplier
 	- [ ] JackSepticEye: Into The System
 	- [ ] Techron
@@ -40,7 +40,7 @@
 	- [ ] Cave Of The Dead Remastered
 	- [ ] PHE Adventures
 	- [x] [Unreleased projects](https://pikakid98-games.github.io/unreleased-projects)
-	- [x] [Pikakid98 Launcher: Special Edition](https://pikakid98-games.github.io/pikakid98-launcher-se/)
+	- [x] [Pikakid98 Launcher: Special Edition](https://pikakid98-games.github.io/pikakid98-launcher-se)
   
    </details>
 
