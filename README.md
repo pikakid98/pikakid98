@@ -85,6 +85,8 @@
 
    </details>
 
+- Porting The Story Of A Succubus Named Candice to RPG Maker MV `(~ 10%)`
+
 </details>
 
 <details>
