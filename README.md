@@ -44,11 +44,11 @@
   
    </details>
 
-- Decompiling my old GameMaker Studio games `(7/15)`
+- Decompiling my old GameMaker Studio games `(8/15)`
    <details>
 
 	- [ ] 8-Bit Markiplier
-	- [ ] Cave Of The Dead Remastered
+	- [x] Cave Of The Dead Remastered
 	- [ ] Cave Of The Dead 2: Dimensional Disaster `Debug Build`
 	- [ ] Cave Of The Dead 2: Dimensional Disaster `Release Build`
 	- [ ] Minecraft 2D (GMS) `Original by SonicboomColt`
