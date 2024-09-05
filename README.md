@@ -17,28 +17,26 @@
   
    </details>
 
-- Making a new Pikakid98 Games website `(9/21)`
+- Making a new Pikakid98 Games website `(11/19)`
    <details>
     
 	- [ ] `WIP` [Main page](https://pikakid98-games.github.io/)
 	- [x] [Adventure Guy](https://pikakid98-games.github.io/adventure-guy)
 	- [x] [PurrCatory](https://pikakid98-games.github.io/purrcatory)
-	- [ ] SonicboomColt Classics
-	- [ ] Pikakid98 Classic Game Collection
-	- [ ] Pikakid98 & SonicboomColt Classics
+	- [ ] `WIP` Pikakid98 & SonicboomColt Classics `SonicboomColt Classics and Pikakid98 Classic Game Collection will be part of the archives rather than their own pages`
 	- [x] [The Story Of A Succubus Named Candice](https://pikakid98-games.github.io/the-story-of-a-succubus-named-candice)
 	- [x] [The Computer](https://pikakid98-games.github.io/the-computer)
 	- [x] [Pikakid98 (Youtuber) Fangame Collection](https://pikakid98-games.github.io/pikakid98-youtuber-fangame-collection)
 	- [x] [Cave Of The Dead](https://pikakid98-games.github.io/cave-of-the-dead)
-	- [ ] The Legend Of Zelda: Sword Of Destiny
+	- [X] [The Legend Of Zelda: Sword Of Destiny](https://pikakid98-games.github.io/the-legend-of-zelda-sword-of-destiny)
 	- [ ] Pikakid98 Studios Game Gallery
-	- [x] [Markiplier’s Mansion](https://pikakid98-games.github.io/markiplier's mansion)
+	- [x] [Markiplier’s Mansion](https://pikakid98-games.github.io/markipliers-mansion)
 	- [ ] 8-Bit Markiplier
 	- [ ] JackSepticEye: Into The System
 	- [ ] Techron
 	- [ ] Cave Of The Dead 2: Dimensional Disaster
 	- [ ] Cave Of The Dead Remastered
-	- [ ] PHE Adventures
+	- [X] [PHE Adventures](https://pikakid98-games.github.io/phe-adventures)
 	- [x] [Unreleased projects](https://pikakid98-games.github.io/unreleased-projects)
 	- [x] [Pikakid98 Launcher: Special Edition](https://pikakid98-games.github.io/pikakid98-launcher-se)
   
