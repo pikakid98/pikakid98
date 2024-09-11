@@ -63,8 +63,6 @@
 
    </details>
 
-- Working on my first DooM WAD
-
 - Working on Museum Of The Dead (A Cave Of The Dead Port/Remaster/Compilation) `(1/10)`
 	<details>
 
