@@ -17,7 +17,7 @@
   
    </details>
 
-- Making a new Pikakid98 Games website `(11/19)`
+- Making a new Pikakid98 Games website `(11/20)`
    <details>
     
 	- [ ] `WIP` [Main page](https://pikakid98-games.github.io/)
@@ -39,6 +39,7 @@
 	- [X] [PHE Adventures](https://pikakid98-games.github.io/phe-adventures)
 	- [x] [Unreleased projects](https://pikakid98-games.github.io/unreleased-projects)
 	- [x] [Pikakid98 Launcher: Special Edition](https://pikakid98-games.github.io/pikakid98-launcher-se)
+	- [ ] Pika's First WAD
   
    </details>
 
